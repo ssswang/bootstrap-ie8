@@ -6,13 +6,11 @@ Your bootstrap project sometimes does not work well with IE8. You may need this 
 
 "ECMAScript 5 compatibility shims for legacy JavaScript engines."
 
-You need this because some jQuery plugins may use some code cannot be supported by IE8 legacy engine.
+You need this because some jQuery plugins may use some code which are not supported by IE8 javascript engine.
 
 [console-polyfill](https://github.com/paulmillr/console-polyfill)
 
 "Browser console polyfill. Makes it safe to do console.log()-s etc always."
-
-If you want to use console.log() for debug purpose.
 
 [HTML5 shiv](https://github.com/afarkas/html5shiv)
 
