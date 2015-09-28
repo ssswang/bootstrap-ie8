@@ -1,5 +1,5 @@
 # bootstrap-ie8
-Bootstrap projects sometimes does not work with IE8 well. You may need these good development tools to fix your projects under ie8. Also these may make your life easier for IE8 development.
+Bootstrap projects sometimes does not work with IE8 well. You may need this collection of development tools to fix your projects under ie8. Also these may make your life easier for IE8 development.
 
 ### What included
 [es5-shim.js](https://github.com/es-shims/es5-shim)
@@ -26,7 +26,8 @@ If you need Bootstrap works properly under IE8
 
 ### bower
 If you use [bower](http://bower.io/), you can just take bower.json and run
-bower install
+
+        bower install
 
 to get the least the dependencies.
 
