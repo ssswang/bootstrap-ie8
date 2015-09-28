@@ -27,7 +27,7 @@ If you use [bower](http://bower.io/), you can just run
 
         bower install bootstrap-ie8
 
-to get the least the dependencies.
+to get the latest the dependencies.
 
 ### Example
 Please check index.html.
