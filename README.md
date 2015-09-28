@@ -5,7 +5,7 @@ Your bootstrap project sometimes does not work well with IE8. You may need this 
 
 [Bootstrap](https://github.com/twbs/bootstrap)
 
-[JQuery](https://github.com/jquery/jquery)
+[JQuery 1](https://github.com/jquery/jquery)
 
 ---
 
