@@ -1,5 +1,5 @@
 # bootstrap-ie8
-Bootstrap projects sometimes does not work with IE8 well. You may need this collection of development tools to fix your projects under ie8. Also these may make your life easier for IE8 development.
+Your bootstrap project sometimes does not work with IE8 well. You may need this collection of development tools to fix your project. Also these tools can make your life much easier to solve ie compatibility issues.
 
 ### What included
 [es5-shim.js](https://github.com/es-shims/es5-shim)
