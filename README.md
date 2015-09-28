@@ -25,7 +25,7 @@ If you want to use console.log() for debug purpose.
 If you need Bootstrap works properly under IE8
 
 ### bower
-If you use [bower](http://bower.io/), you can just take bower.json and run
+If you use [bower](http://bower.io/), you can just run
 
         bower install bootstrap-ie8
 
