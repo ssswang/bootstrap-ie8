@@ -2,6 +2,11 @@
 Your bootstrap project sometimes does not work well with IE8. You may need this collection of development tools to fix your project. Also these tools can make your life much easier to solve ie compatibility issues.
 
 ### What included
+
+[Bootstrap](https://github.com/twbs/bootstrap)
+[JQuery](https://github.com/jquery/jquery)
+
+
 [es5-shim.js](https://github.com/es-shims/es5-shim)
 
 "ECMAScript 5 compatibility shims for legacy JavaScript engines."
@@ -21,6 +26,8 @@ You need this because some jQuery plugins may use some code which are not suppor
 "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)"
 
 If you need Bootstrap works properly under IE8
+
+
 
 ### bower
 If you use [bower](http://bower.io/), you can just run
