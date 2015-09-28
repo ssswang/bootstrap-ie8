@@ -4,8 +4,10 @@ Your bootstrap project sometimes does not work well with IE8. You may need this 
 ### What included
 
 [Bootstrap](https://github.com/twbs/bootstrap)
+
 [JQuery](https://github.com/jquery/jquery)
 
+---
 
 [es5-shim.js](https://github.com/es-shims/es5-shim)
 
