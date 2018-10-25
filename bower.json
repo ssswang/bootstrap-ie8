@@ -30,8 +30,8 @@
     "console-polyfill": "~0.2.1",
     "html5shiv": "~3.7.2",
     "Respond": "~1.4.2",
-    "bootstrap": "~3.3.5",
-    "jquery": "~1.11.3"
+    "bootstrap": "~3.3.7",
+    "jquery": "~1.12.4"
   },
   "homepage": "https://github.com/kalpaca/bootstrap-ie8"
 }
